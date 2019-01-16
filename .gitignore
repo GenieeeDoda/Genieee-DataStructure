@@ -281,7 +281,9 @@ Temporary Items
 Stack/.idea/
 .DS_Store
 Stack/Stack.iml
+Stack/out/
 
 Algorithm/Algorithm.iml
 .DS_Store
 Algorithm/.idea/
+Algorithm/out/
