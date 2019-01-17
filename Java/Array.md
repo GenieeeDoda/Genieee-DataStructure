@@ -35,7 +35,7 @@ int a[];
 
   - int형 배열 본체를 생성하고, 그것을 변수 a가 **참조** 한다
 
-  ![java array reference](./java_array.jpg)
+  ![java array reference](./image/java_array.jpg)
 
   - new 연산자가 생성하는 것은 배열 본체에 대한 참조
 
@@ -43,7 +43,7 @@ int a[];
 
   배열은 일차원배열 뿐만 아니라 다차원배열도 있다. 먼저 linear array라고도 불리는 일차원배열은 다음과 같다.
 
-![linear array](./image-20190117201617644.png)
+![linear array](./image/image-20190117201617644.png)
 
 
 
