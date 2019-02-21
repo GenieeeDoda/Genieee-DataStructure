@@ -290,3 +290,9 @@ Algorithm/out/
 
 
 .idea/
+
+Iterations/build.gradle
+Iterations/gradlew
+Iterations/gradlew.bat
+Iterations/settings.gradle
+
