@@ -1,7 +1,5 @@
 package ch01;
 
-import java.util.Scanner;
-
 public class Ch1_2_Multi99Table {
     public static void main(String[] args) {
         System.out.println("----- 곱셈표 -----");
